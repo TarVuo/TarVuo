@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TarVuo
 - 👀 I’m interested in testing (auto and manual)
-- 🌱 I’m currently learning testing 
+- 🌱 I’m currently studying/learning testing 
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me ...
 
